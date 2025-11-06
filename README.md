@@ -2,5 +2,5 @@
 
 Отображение галереи изображений с указанием автора, поиск по автору, переключение режимов отображения, полная очистка галереи.
 
-<img src="https://i.pravatar.cc/304" width="200" />
-<img src="https://i.pravatar.cc/305" width="200" />
+![ ](https://prnt.sc/tT1-1cCPo6yj)
+![ ](https://prnt.sc/pYwyejKyMiKt)
